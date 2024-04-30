@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.each-language-item {
+  list-style-type: none;
+}
+.language-btn {
+  font-size: 15px;
+  font-weight: 500;
+  color: #1e293b;
+  border-width: 0px;
+  background-color: transparent;
+}
+.active {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  padding: 8px;
+  border-radius: 10px;
+}
